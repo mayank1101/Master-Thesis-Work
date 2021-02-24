@@ -1,8 +1,8 @@
 # Master-Thesis
 
-## Deep Learning Based Medical Image Super-Resolution And Disease Detection
+## Medical Image Super-Resolution
 
-[![Course Subject](https://img.shields.io/badge/Completed-no-green.svg?style=flat&logo=appveyor)](https://github.com/mayank1101/Master-Thesis/actions?query=workflow%3A%22C%2FC%2B%2B+WorkFlow%22)
+[![Course Subject](https://img.shields.io/badge/Completed-in_progress-green.svg?style=flat&logo=appveyor)](https://github.com/mayank1101/Master-Thesis/actions?query=workflow%3A%22C%2FC%2B%2B+WorkFlow%22)
 
 ### Thesis Supervisors
 * [Dr. Bakul Gohel](https://www.daiict.ac.in/profile/bakul-gohel/)
