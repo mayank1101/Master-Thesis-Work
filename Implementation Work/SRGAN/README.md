@@ -32,7 +32,6 @@
 ![Model Working FLow Chart](https://github.com/mayank1101/Master-Thesis-Work/blob/main/Implementation%20Work/SRGAN/img/SRGAN%20Flow.png?raw=true)
 
 ## Results
-![Epoch Loss](https://github.com/mayank1101/Master-Thesis-Work/blob/main/Implementation%20Work/SRGAN/img/srgan_loss.png?raw=true)
 ![Results](https://github.com/mayank1101/Master-Thesis-Work/blob/main/Implementation%20Work/SRGAN/img/output.png?raw=true)
 
 ## Loss Functions
@@ -43,3 +42,4 @@
 ![MSE](https://github.com/mayank1101/Master-Thesis-Work/blob/main/Implementation%20Work/SRGAN/img/MSE.png?raw=true)
 ![PSNR](https://github.com/mayank1101/Master-Thesis-Work/blob/main/Implementation%20Work/SRGAN/img/PSNR.png?raw=true)
 ![SSIM](https://github.com/mayank1101/Master-Thesis-Work/blob/main/Implementation%20Work/SRGAN/img/SSIM.png?raw=true)
+![SSIM_PSNR_MSE](https://github.com/mayank1101/Master-Thesis-Work/blob/main/Implementation%20Work/SRGAN/img/mse_ssim_psnr_loss.png?raw=true)
