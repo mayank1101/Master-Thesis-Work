@@ -1,3 +1,9 @@
+import os
+import tensorflow as tf
+import tensorflow.keras.backend as K
+tf.config.run_functions_eagerly(True)
+
+
 from Network import Generator, Discriminator
 
 import matplotlib.pyplot as plt
@@ -9,14 +15,12 @@ from keras.optimizers import SGD, Adam, RMSprop
 import keras
 import keras.backend as K
 from keras.layers import Lambda, Input
-import tensorflow as tf
 import skimage.transform
 from skimage import data, io, filters
 import numpy as np
 from numpy import array
 from skimage.transform import rescale, resize
 from scipy.misc import imresize
-import os
 from matplotlib.pyplot import imread
 import h5py
 import cv2
@@ -397,6 +401,6 @@ def visualize_model():
 
 
 
-train(20000,4)
+train(5,4)
 
 
