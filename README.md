@@ -1,8 +1,14 @@
 # Master-Thesis
 
 ## Medical Image Super-Resolution
-
-[![Course Subject](https://img.shields.io/badge/Completed-in_progress-green.svg?style=flat&logo=appveyor)](https://github.com/mayank1101/Master-Thesis/actions?query=workflow%3A%22C%2FC%2B%2B+WorkFlow%22)
+* My master’s thesis, titled **Quantitative Analysis of Super-Resolution on Medical Image Pathology** was
+conducted during my master's at IIT Jammu, under the supervision of Prof. Harkeerat Kaur and Prof. Bakul Goel.
+* In this research, various super-resolution models, including **SRCNN, ESPCN, SRGAN, WDSR, and EDSR** were
+implemented on diverse medical image datasets of different modalities. The study involved a quantitative analysis of the
+results using various quality assessment metrics, such as **RMSE, PSNR, SSIM, MS-SSIM, SCC, and VIFP** specifically
+focusing on normal and diseased images, separately evaluating the quality degradation within the disease regions. The
+hypothesis was subsequently validated using the Mann-Whitney U Test
+* Thesis Final Presentation can we found [here](https://github.com/mayank1101/Master-Thesis-Work/blob/main/Presentation/Thesis_Presentation%20-%20Final.pdf) 
 
 ### Thesis Supervisors
 * [Prof. Bakul Gohel](https://www.daiict.ac.in/faculty-details/205)
